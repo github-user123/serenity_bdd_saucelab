@@ -37,7 +37,6 @@ Feature: Inventory page testing on saucedemo.com
     Then I am directed to cart page
 
 
-
   Scenario: Testing sort items by price (high to low) on inventory page and cart page
     Given I am on the inventory page
     When I sort the product by "Price (high to low)"

@@ -57,6 +57,7 @@ target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d9
 ![report-api-summary](./img/summary%20report.png)
 
 #### Coverage Report
-![report-api-cpverage](./img/coverage%20report1.png)
+![report-api-coverage](./img/coverage%20report.png)
 
 #### Automation Testing When Run in Intellij IDE and chrome
+![report-api-coverage](./img/inventory.png)
