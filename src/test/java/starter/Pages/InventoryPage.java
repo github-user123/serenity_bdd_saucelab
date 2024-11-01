@@ -74,10 +74,10 @@ public class InventoryPage extends PageObject {
             case "Name (Z to A)":
                 option = driver.findElement(activeSortOption2).getAttribute("innerHTML");
                 break;
-            case "Price low to high":
+            case "Price (low to high)":
                 option = driver.findElement(activeSortOption3).getAttribute("innerHTML");
                 break;
-            case "Price high to low":
+            case "Price (high to low)":
                 option = driver.findElement(activeSortOption4).getAttribute("innerHTML");
                 break;
             default:
